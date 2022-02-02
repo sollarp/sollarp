@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Kotlin projects [Wifi Card Scanner](https://github.com/sollarp/Wifi-Card-Scanner)
 
-- 🌱 I’m currently learning **Flutter, Jetpack ect..**
+- 🌱 I’m currently learning **Flutter, Huawei SDK ect..**
 
 - 👯 I’m looking to collaborate on [KivyMD](https://github.com/kivymd/KivyMD)
 
