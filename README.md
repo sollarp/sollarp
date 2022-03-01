@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sollarp" alt="sollarp" /></a> </p>
 
-- 🔭 I’m currently working on Kotlin projects [Wifi Card Scanner](https://github.com/sollarp/Wifi-Card-Scanner)
+- 🔭 I’m currently working on Kotlin projects EV Charging point map.
 
 - 🌱 I’m currently learning **Flutter, Huawei SDK ect..**
 
