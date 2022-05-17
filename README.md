@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Kotlin projects EV Charging point map.
 
-- 🌱 I’m currently learning **Flutter, Huawei SDK ect..**
+- 🌱 I’m currently learning **Android Kotlin**
 
 - 👯 I’m looking to collaborate on [KivyMD](https://github.com/kivymd/KivyMD)
 
