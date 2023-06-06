@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Android Kotlin**
 
-- 👯 I’m looking to collaborate on [KivyMD](https://github.com/kivymd/KivyMD)
+- 👯 I’m looking to collaborate on [ChatGPT ChatBot](https://github.com/lambiengcode/compose-chatgpt-kotlin-android-chatbot)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sollarp](https://github.com/sollarp)
 
