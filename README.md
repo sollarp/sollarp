@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sollarp" alt="sollarp" /></a> </p>
 
-- 🔭 I’m currently working on my app Personal Assistant using ChatGPT.
+- 🔭 I’m currently working for VertexCode.
 
-- 🌱 I’m currently learning **Android Kotlin**
+- 🌱 I’m currently learning **Everything has to do with Android development**
 
 - 👯 I’m looking to collaborate on [ChatGPT ChatBot](https://github.com/lambiengcode/compose-chatgpt-kotlin-android-chatbot)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sollarp](https://github.com/sollarp)
 
-- 📫 How to reach me **szpitor@gmail.com**
+- 📫 How to reach me **peter.szollar@vertexcode.io**
 
 <p align="left">
 </p>
