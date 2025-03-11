@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sollarp" alt="sollarp" /></a> </p>
 
-- 🔭 I’m currently working for VertexCode.
+- 🔭 I’m currently working for TouchTel Hungary Kft.
 
 - 🌱 I’m currently learning **Everything has to do with Android development**
 
