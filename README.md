@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working for TouchTel Hungary Kft.
 
-- 🌱 I’m currently learning **Everything has to do with Android development**
+- 🌱 I’m currently working on a chat BOT implementing paymentgateway and more also doing **my own Android development** 
 
 - 👯 I’m looking to collaborate on [ChatGPT ChatBot](https://github.com/lambiengcode/compose-chatgpt-kotlin-android-chatbot)
 
