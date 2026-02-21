@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sollarp](https://github.com/sollarp)
 
-- 📫 How to reach me **peter.szollar@vertexcode.io**
+- 📫 How to reach me **peter.szollar@cs-szoftver.hu**
 
 <p align="left">
 </p>
